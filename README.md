@@ -79,6 +79,7 @@ NBSP
    <input type="checkbox" id="checkbox2"/><label for="checkbox2">香蕉</label>
    <input type="checkbox" id="checkbox3"/><label for="checkbox3">栗子</label>
 </form>
+<hr/>
 
 </body>
 </html>
